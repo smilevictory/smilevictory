@@ -1,6 +1,6 @@
 <div class="header">
   <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=F5C0CA&text=Victory's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Victory's GitHub">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=F5C0CA&text=Victory's%20GitHub%20&height=250&fontSize=60&descAlignY=75&descAlign=60" alt="Victory's GitHub">
   </div>
 
   <div align= "center">
