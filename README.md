@@ -12,6 +12,9 @@
       <a href="mailto:victory.fulldev@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
       </a>
+      <a href="https://smile-victory.tistory.com" target="_blank">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Badge">
+      </a>
     </div>
   </div>
 
