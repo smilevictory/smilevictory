@@ -1,7 +1,7 @@
-<div class="header">
+<!-- <div class="header">
   <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=F5C0CA&text=Victory's%20GitHub%20&height=250&fontSize=60&descAlignY=75&descAlign=60" alt="Victory's GitHub">
-  </div>
+  </div> -->
 
   <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔔 Contact me 🔔 </h3>
@@ -18,22 +18,23 @@
     </div>
   </div>
 
-  <div align= "center">
+ <!--  <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Using Tool 🛠 </h3>
     <div style="display: flex; justify-content: center; align-items: center;">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge">
-      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode Badge">
     </div>
-  </div>
+  </div> -->
 
   <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Studying Tech Stack ✨ </h3>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h3>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React Badge">
       <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge">
       <br />
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript Badge">
+    <br/>
       <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
       <img src="https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
     </div>
